@@ -19,7 +19,3 @@ public class Total implements Task {
 		return Tasks.instrumented(Total.class);
 	}	
 }
-//public void msjLlameSupervisor(String strMensaje) {
-//	msjSupervisor.getText();
-//	assertEquals(strMensaje, msjSupervisor.getText());
-//}
